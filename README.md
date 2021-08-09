@@ -2,13 +2,13 @@
 
 <head>
 <title>T-Rex Game</title>
-<meta name="description" content="Ripped T-Rex/Dino game of Chromium">
-<meta property="og:title" content="Play the hidden T-Rex Dinosaur game of Chromium .">
+<meta name="description" content="made by chris">
+<meta property="og:title" content="Play the hidden T-Rex Dinosaur boiii.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="http://www.thecodepost.org">
 <meta property="og:image" content="http://img.thecodepost.org/2015/01/trex.png">
 <meta property="og:site_name" content="The Code Post">
-<meta property="og:description" content="Google Chrome has a hidden T-Rex game only for offline mode. But now, you can enjoy it any time and on any device, but you gotta stay online!!!">
+<meta property="og:description" content="have fun">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@thecodepost">
